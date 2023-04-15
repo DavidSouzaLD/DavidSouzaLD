@@ -1,4 +1,4 @@
-<img src="https://gist.github.com/DavidSouzaLD/4125b6e12f9a0937c61cda23f99b3fda?short_path=b85777b">
+<img src="https://raw.githubusercontent.com/gist/DavidSouzaLD/89b865ba488c09a977b1ad0530a95fa2/raw/0e934b4328d61a89a244dd2bf42ffe6ea530da72/Mobile%20(1).svg">
 
 - 👋 Hi, I’m @DavidSouzaLD
 - 📫 I'm from Brazil, Rio Grande do Norte, Natal

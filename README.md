@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS, SQL and PHP.
 - 🐱‍👤 I like to program games in my spare time.
 
-<a src="https://www.linkedin.com/in/david-souza-583802233/">![image](https://user-images.githubusercontent.com/100738882/232177264-05701731-7b9f-4f75-924a-8a212f89727d.png)
+<a href="https://www.linkedin.com/in/david-souza-583802233/">![image](https://user-images.githubusercontent.com/100738882/232177264-05701731-7b9f-4f75-924a-8a212f89727d.png)
 </a>
 
 <!---

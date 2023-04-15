@@ -5,7 +5,7 @@
 - 👀 I'm interested in learning and delving into several different programming languages.
 - 🌱 I’m currently learning HTML, CSS, JS, SQL and PHP.
 - 🐱‍👤 I like to program games in my spare time.
-- My Linkedin <a href="https://www.linkedin.com/in/david-souza-583802233/">
+- Follow me in <a href="https://www.linkedin.com/in/david-souza-583802233/">
   <img height="20px" width="20px" src="https://user-images.githubusercontent.com/100738882/232177264-05701731-7b9f-4f75-924a-8a212f89727d.png">
 </a>
 
